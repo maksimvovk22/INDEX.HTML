@@ -1,0 +1,137 @@
+html {
+  box-sizing: border-box;
+}
+body {
+  font-family: Roboto;
+  font-family: Body;
+  font-family: Raleway;
+}
+.Web {
+  font-size: 18px;
+  width: 44px;
+  line-height: 24px;
+  font-family: Raleway;
+  color: #4d5ae5;
+  font-size: normal;
+  text-decoration: none;
+}
+.Studio {
+  padding-top: 0;
+  margin-top: 0;
+  color: #2e2f42;
+  font-size: 18px;
+  text-decoration: none;
+  width: 44px;
+  line-height: 24px;
+}
+.SPC {
+  font-family: Roboto;
+  font-style: normal;
+  text-decoration: none;
+  line-height: 24px;
+  font-size: 16px;
+}
+.info {
+  font-family: Body;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 128%;
+}
+h1 {
+  font-size: 56px;
+  font-family: Roboto;
+  height: 120px;
+  width: 496px;
+  left: 472px;
+  top: 260px;
+  border-radius: nullpx;
+  line-height: 60px;
+}
+.button {
+  font-style: Medium;
+  font-size: 16px;
+  line-height: 128%;
+  line-height: 24px;
+  font-family: Roboto;
+  letter-spacing: 0.04em;
+  text-align: left;
+  background: #4d5ae5;
+  width: 169px;
+  left: 636px;
+  top: 428px;
+  border-radius: 4px;
+  padding: 16px 32px 16px 32px;
+  transition: all 0.3s;
+}
+.button:hover {
+  background-color: tomato;
+}
+h3 {
+  font-family: Roboto;
+  font-style: Medium;
+  font-size: 20px;
+  line-height: 24px;
+  height: 24px;
+  width: 88px;
+  left: 72px;
+  top: 0px;
+  border-radius: nullpx;
+}
+p {
+  font-family: Roboto;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 128%;
+  width: 128px;
+  left: 52px;
+  top: 32px;
+  border-radius: nullpx;
+}
+.teg {
+  font-family: Roboto;
+  font-size: 36px;
+  line-height: 40px;
+  line-height: 95%;
+  height: 40px;
+  width: 323px;
+  left: 559px;
+  top: 1016px;
+  border-radius: nullpx;
+}
+.w {
+  font-size: 18px;
+  width: 44px;
+  line-height: 24px;
+  font-family: Raleway;
+  color: #4d5ae5;
+  font-size: normal;
+  text-decoration: none;
+}
+.s {
+  color: #f4f4fd;
+  font-size: 18px;
+  text-decoration: none;
+  width: 44px;
+  line-height: 24px;
+  margin: 0;
+}
+.p {
+  font-family: Roboto;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 128%;
+  height: 72px;
+  width: 264px;
+  left: 156px;
+  top: 2418px;
+  border-radius: nullpx;
+}
+.w {
+  font-family: Raleway;
+  color: #f4f4fd;
+  font-size: 18px;
+  line-height: 21px;
+  font-style: normal;
+}
